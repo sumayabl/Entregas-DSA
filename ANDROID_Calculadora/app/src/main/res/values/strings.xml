@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="clear_bt">CLEAR</string>
+    <string name="eq_bt">=</string>
+    <string name="sum_bt">+</string>
+    <string name="rest_bt">-</string>
+    <string name="div_bt">/</string>
+    <string name="mult_bt">x</string>
+    <string name="zero_bt">0</string>
+    <string name="one_bt">1</string>
+    <string name="two_bt">2</string>
+    <string name="three_bt">3</string>
+    <string name="four_bt">4</string>
+    <string name="five_bt">5</string>
+    <string name="six_bt">6</string>
+    <string name="seven_bt">7</string>
+    <string name="eight_bt">8</string>
+    <string name="nine_bt">9</string>
+    <string name="sin_bt">Sin</string>
+    <string name="cos_bt">cos</string>
+    <string name="tan_bt">tan</string>
+    <string name="dot_bt">.</string>
+    <string name="Resultado"></string>
+</resources>
